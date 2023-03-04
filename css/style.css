@@ -1,5 +1,8 @@
 body{background-color: yellowgreen(70,37,4);}
 
+fotosTxt{color: antiquewhite;
+    font-size: ;}
+
 h1{
 
     text-align: center;
@@ -8,3 +11,4 @@ h1{
 }
 
 .banner{width: 100%; height: 400px;}
+.perro{width: 24%; height: 300px; margin: 5px;}
